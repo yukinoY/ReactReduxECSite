@@ -1,7 +1,5 @@
 # ReactReduxECSite
 
-**＊現在別ブランチで作業中＊**
-
 ## 概要
 [トラハックさん](https://www.youtube.com/user/1492tiger) 日本一わかりやすいReactRedux入門【ECサイトを作ろう】で作るECサイトを<br>
 ハンズオン形式で実装していきます。（講座が現在進行形でアップされている為）
@@ -12,6 +10,7 @@
   - Actionsを作ろう
   - Reducersを作ろう
   - Storeを作ろう
+  - ルーティングの設定（middlewareの導入）
   - re-ducksパターンを使おう
   - redux-thunkを使いこなそう
 
